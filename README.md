@@ -12,6 +12,7 @@ Everything lives at [github.com/lexfrei](https://github.com/lexfrei).
 - [Terraform](#terraform)
 - [Claude Code](#claude-code)
 - [MCP servers](#mcp-servers)
+- [Libraries](#libraries)
 - [Bots and apps](#bots-and-apps)
 - [Hardware, 3D printing, networking](#hardware-3d-printing-networking)
 
@@ -67,6 +68,10 @@ All written in Go.
 - [mcp-lostfilm](https://github.com/lexfrei/mcp-lostfilm) — release feed, search, and .torrent from LostFilm.TV.
 - [mcp-myshows](https://github.com/lexfrei/mcp-myshows) — MyShows.me series tracker.
 - [mcp-godville](https://github.com/lexfrei/mcp-godville) — Godville hero state for LLMs.
+
+## Libraries
+
+- [keychain](https://github.com/lexfrei/keychain) — cgo-free Go library for the native OS secret store (macOS Keychain, Linux Secret Service, Windows Credential Manager).
 
 ## Bots and apps
 
