@@ -82,6 +82,7 @@ All written in Go.
 ## Hardware, 3D printing, networking
 
 - [sovol-zero-mainline](https://github.com/lexfrei/sovol-zero-mainline) — migrating the Sovol Zero printer to mainline Klipper.
+- [sovobian](https://github.com/lexfrei/sovobian) — prebuilt Armbian-based images for Sovol H616 printer hosts (Zero, SV08, SV08 Max), rebuilt automatically when upstream Armbian releases.
 - [piwrt](https://github.com/lexfrei/piwrt) — Raspberry Pi 5 + OpenWrt routing all traffic through an AmneziaWG VPN.
 
 ## Beyond my repos
