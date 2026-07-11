@@ -1,6 +1,6 @@
 # Awesome lexfrei
 
-> A curated list of my pet projects — mostly Go, Kubernetes, and self-hosting.
+> A curated list of my pet projects and open-source work — mostly Go, Kubernetes, and self-hosting.
 
 Everything lives at [github.com/lexfrei](https://github.com/lexfrei).
 
@@ -15,6 +15,7 @@ Everything lives at [github.com/lexfrei](https://github.com/lexfrei).
 - [Libraries](#libraries)
 - [Bots and apps](#bots-and-apps)
 - [Hardware, 3D printing, networking](#hardware-3d-printing-networking)
+- [Beyond my repos](#beyond-my-repos)
 
 ## Kubernetes — controllers and operators
 
@@ -82,3 +83,14 @@ All written in Go.
 
 - [sovol-zero-mainline](https://github.com/lexfrei/sovol-zero-mainline) — migrating the Sovol Zero printer to mainline Klipper.
 - [piwrt](https://github.com/lexfrei/piwrt) — Raspberry Pi 5 + OpenWrt routing all traffic through an AmneziaWG VPN.
+
+## Beyond my repos
+
+Projects I maintain:
+
+- [Cozystack](https://github.com/cozystack/cozystack) — open-source PaaS and framework for building clouds, a CNCF Sandbox project; maintaining it as part of my work at [Ænix](https://aenix.io).
+- [obico-server](https://github.com/TheSpaghettiDetective/obico-server) — self-hosted smart 3D printing platform with AI failure detection.
+- [prometheus-ipmi-exporter](https://github.com/prometheus-community/helm-charts/tree/main/charts/prometheus-ipmi-exporter) — Helm chart in prometheus-community.
+- [robotlb](https://github.com/Treetscom/robotlb) — Hetzner load balancer controller for bare-metal Kubernetes clusters.
+
+My contributions also landed in [external-dns](https://github.com/kubernetes-sigs/external-dns), [Gateway API](https://github.com/kubernetes-sigs/gateway-api), [MetalLB](https://github.com/metallb/metallb), [jellyfin-helm](https://github.com/jellyfin/jellyfin-helm), and [some 60 more repos](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Alexfrei+-user%3Alexfrei+-org%3Acozystack+-org%3Aaenix-org&type=pullrequests).
