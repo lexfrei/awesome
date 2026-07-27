@@ -93,5 +93,6 @@ Projects I maintain:
 - [obico-server](https://github.com/TheSpaghettiDetective/obico-server) — self-hosted smart 3D printing platform with AI failure detection.
 - [prometheus-ipmi-exporter](https://github.com/prometheus-community/helm-charts/tree/main/charts/prometheus-ipmi-exporter) — Helm chart in prometheus-community.
 - [robotlb](https://github.com/Treetscom/robotlb) — Hetzner load balancer controller for bare-metal Kubernetes clusters.
+- [Armbian](https://github.com/armbian/build) — maintainer of the Sovol printer-host boards: SV08, SV08 Max, and Zero.
 
 My contributions also landed in [external-dns](https://github.com/kubernetes-sigs/external-dns), [Gateway API](https://github.com/kubernetes-sigs/gateway-api), [MetalLB](https://github.com/metallb/metallb), [jellyfin-helm](https://github.com/jellyfin/jellyfin-helm), and [some 60 more repos](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Alexfrei+-user%3Alexfrei+-org%3Acozystack+-org%3Aaenix-org&type=pullrequests).
