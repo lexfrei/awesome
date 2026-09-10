@@ -94,4 +94,9 @@ Projects I maintain:
 - [robotlb](https://github.com/Treetscom/robotlb) — Hetzner load balancer controller for bare-metal Kubernetes clusters.
 - [Armbian](https://github.com/armbian/build) — maintainer of the Sovol printer-host boards: SV08, SV08 Max, and Zero.
 
+Upstream patches:
+
+- [Linux kernel](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=f%40lex.la) — SPI-NAND support for a HeYangTek chip in `mtd`, merged into mainline. Networking fixes accepted into `net`: EEE on `mt7530` and `mtk_eth_soc`, taprio link settings in `macb`, `phylink` state initialisation, and firmware blob validation in `air_en8811h`.
+- [Git](https://lore.kernel.org/git/20260905171332.34670-1-f@lex.la/) — `cherry-pick --no-commit` never writes `CHERRY_PICK_HEAD`, not even on a conflict; documented that and pinned it with a regression test.
+
 My contributions also landed in [external-dns](https://github.com/kubernetes-sigs/external-dns), [Gateway API](https://github.com/kubernetes-sigs/gateway-api), [MetalLB](https://github.com/metallb/metallb), [jellyfin-helm](https://github.com/jellyfin/jellyfin-helm), and [some 60 more repos](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Alexfrei+-user%3Alexfrei+-org%3Acozystack+-org%3Aaenix-org&type=pullrequests).
