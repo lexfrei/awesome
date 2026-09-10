@@ -1,0 +1,9 @@
+---
+---
+
+@import 'jekyll-theme-cayman';
+
+// Cayman renders "View on GitHub" for every project page with no opt-out.
+.page-header .btn {
+  display: none;
+}
