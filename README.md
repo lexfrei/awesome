@@ -95,7 +95,7 @@ Projects I maintain:
 
 Upstream patches:
 
-- [Linux kernel](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=f%40lex.la) — SPI-NAND support for a HeYangTek chip in `mtd`, merged into mainline. Networking fixes accepted into `net`: EEE on `mt7530` and `mtk_eth_soc`, taprio link settings in `macb`, `phylink` state initialisation, and firmware blob validation in `air_en8811h`.
-- [Git](https://lore.kernel.org/git/20260905171332.34670-1-f@lex.la/) — `cherry-pick --no-commit` never writes `CHERRY_PICK_HEAD`, not even on a conflict; documented that and pinned it with a regression test.
+- [Linux kernel](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=f%40lex.la) — kernel-side work that comes out of bringing new devices up under OpenWrt: SPI-NAND flash chips in `mtd`, PHY and DSA drivers in `net`.
+- [Git](https://lore.kernel.org/git/?q=f%40lex.la) — command-line UX papercuts: behaviour that surprises people at the terminal, fixed in the code or documented where it cannot be.
 
 My contributions also landed in [external-dns](https://github.com/kubernetes-sigs/external-dns), [Gateway API](https://github.com/kubernetes-sigs/gateway-api), [MetalLB](https://github.com/metallb/metallb), [jellyfin-helm](https://github.com/jellyfin/jellyfin-helm), and [some 60 more repos](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Alexfrei+-user%3Alexfrei+-org%3Acozystack+-org%3Aaenix-org&type=pullrequests).
