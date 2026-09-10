@@ -14,7 +14,7 @@ Everything lives at [github.com/lexfrei](https://github.com/lexfrei).
 - [MCP servers](#mcp-servers)
 - [Libraries](#libraries)
 - [Bots and apps](#bots-and-apps)
-- [Hardware, 3D printing, networking](#hardware-3d-printing-networking)
+- [Hardware and 3D printing](#hardware-and-3d-printing)
 - [Beyond my repos](#beyond-my-repos)
 
 ## Kubernetes — controllers and operators
@@ -79,7 +79,7 @@ All written in Go.
 - [transmission-bot](https://github.com/lexfrei/transmission-bot) — Telegram bot for Transmission.
 - [estimator](https://github.com/lexfrei/estimator) — humorous task-time estimator (×π, PERT); live at [eta.lex.la](https://eta.lex.la) and [job.lex.la](https://job.lex.la).
 
-## Hardware, 3D printing, networking
+## Hardware and 3D printing
 
 - [sovol-zero-mainline](https://github.com/lexfrei/sovol-zero-mainline) — migrating the Sovol Zero printer to mainline Klipper.
 
