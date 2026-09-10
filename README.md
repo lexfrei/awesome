@@ -82,7 +82,6 @@ All written in Go.
 ## Hardware, 3D printing, networking
 
 - [sovol-zero-mainline](https://github.com/lexfrei/sovol-zero-mainline) — migrating the Sovol Zero printer to mainline Klipper.
-- [piwrt](https://github.com/lexfrei/piwrt) — Raspberry Pi 5 + OpenWrt routing all traffic through an AmneziaWG VPN.
 
 ## Beyond my repos
 
