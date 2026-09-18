@@ -1,3 +1,8 @@
 theme: jekyll-theme-cayman
 title: Awesome lexfrei
 description: A curated list of my pet projects and open-source work — mostly Go, Kubernetes, and self-hosting.
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/og-image.png
