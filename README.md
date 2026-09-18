@@ -95,7 +95,7 @@ Projects I maintain:
 
 Upstream patches:
 
-- [Linux kernel](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=f%40lex.la) — kernel-side work that comes out of bringing new devices up under OpenWrt: SPI-NAND flash chips in `mtd`, PHY and DSA drivers in `net`.
-- [Git](https://git.kernel.org/pub/scm/git/git.git/log/?qt=author&q=f%40lex.la) — command-line UX papercuts: behaviour that surprises people at the terminal, fixed in the code or documented where it cannot be.
+- [Linux kernel](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=grep&q=f%40lex.la) — kernel-side work that comes out of bringing new devices up under OpenWrt: SPI-NAND flash chips in `mtd`, PHY and DSA drivers in `net`.
+- [Git](https://git.kernel.org/pub/scm/git/git.git/log/?qt=grep&q=f%40lex.la) — command-line UX papercuts: behaviour that surprises people at the terminal, fixed in the code or documented where it cannot be.
 
 My contributions also landed in [external-dns](https://github.com/kubernetes-sigs/external-dns), [Gateway API](https://github.com/kubernetes-sigs/gateway-api), [MetalLB](https://github.com/metallb/metallb), [jellyfin-helm](https://github.com/jellyfin/jellyfin-helm), and [some 60 more repos](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Alexfrei+-user%3Alexfrei+-org%3Acozystack+-org%3Aaenix-org&type=pullrequests).
