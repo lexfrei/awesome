@@ -2,7 +2,7 @@
 
 > A curated list of my pet projects and open-source work — mostly Go, Kubernetes, and self-hosting.
 
-Everything lives at [github.com/lexfrei](https://github.com/lexfrei).
+Everything lives at [github.com/lexfrei](https://github.com/lexfrei). Longer texts are at [blog.lex.la](https://blog.lex.la), in English and Russian; contacts and PGP at [me.lex.la](https://me.lex.la).
 
 ## Contents
 
